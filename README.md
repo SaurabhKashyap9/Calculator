@@ -3,4 +3,5 @@ I created this SIMPLE CALCULATOR in C programming language containing 124 lines 
 
 Comments between the code have been added for better understanding.
 
-👩🏿‍💻 HAPPY CODING...
+
+👩🏿‍💻 Happy Coding
